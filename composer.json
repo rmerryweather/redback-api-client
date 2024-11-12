@@ -1,6 +1,6 @@
 {
-    "name": "git_user_id/git_repo_id",
-    "description": "",
+    "name": "rmerryweather/redback-api-client",
+    "description": "Swagger codegen generated files for accessing the Redback Inverter API",
     "keywords": [
         "swagger",
         "php",
